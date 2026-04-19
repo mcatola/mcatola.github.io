@@ -7,58 +7,55 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download a full version of my CV [here](/files/CV_Marco_Catola.pdf).
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Current Position
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Assistant Professor (RTT) in Economics, University of Pisa (since 2024)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Previous Positions
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Lecturer in Economics, Maastricht University (2021–2024)  
+- Postdoctoral Researcher, University of Pisa (2020–2021)
+
+## Education
+
+- PhD in Economics, University of Siena, 2019  
+- Visiting PhD Student, Universitat Autònoma de Barcelona, 2017–2018  
+- MSc in Economics, University of Pisa & Sant’Anna School of Advanced Studies  
+- BSc in Economics, University of Pisa  
+
+## National Scientific Qualification
+
+- Italian National Scientific Qualification (ASN) for Associate Professor in sectors 13/A1, 13/A2, and 13/A3 (since 2025)
+
+## Institutional Roles
+
+- Member of the Board of the PhD in Economics of the Tuscan Universities (since 2025)
+
+## Research Projects
+
+- [MAPS](https://mapsresearch.eu), Horizon Europe project  
+- [COSMOPROBE](https://www.cosmoprobe.org/), PRIN 2017 project
+
+## Teaching
+
+See the [Teaching](/teaching/) page.
+
+## Professional Activities
+
+Referee for journals including:
+- *Computational Economics*  
+- *Ecological Economics*  
+- *Environmental and Resource Economics*  
+- *International Journal of Game Theory*  
+- *Public Choice*  
+- *Social Choice and Welfare*  
+
+Reviewer for research proposals for the French National Research Agency (ANR), 2024.
+
+## Publications
+
+See the [Research](/publications/) page.
