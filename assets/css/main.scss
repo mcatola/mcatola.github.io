@@ -45,5 +45,15 @@
 .author__avatar,
 .author__avatar img,
 .author__avatar a img {
+  border: none !important;
+  box-shadow: none !important;
+  background: none !important;
   border-radius: 0 !important;
+}
+
+.author__avatar {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
 }
