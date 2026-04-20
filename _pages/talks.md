@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks
-
 ### 2026
 
 - 15th Meeting of the Behavioral and Experimental Economics Network (BEEN), LUISS Guido Carli  
