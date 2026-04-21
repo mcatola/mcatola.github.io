@@ -28,5 +28,5 @@ I am part of [MAPS](https://mapsresearch.eu), a Horizon Europe project exploring
 
 - **Apr 2026** — New working paper with Silvia Leoni and Andrea Caravaggio. [Link](https://arxiv.org/abs/2604.03102)
 - **Apr 2026** — New working paper with Silvia Leoni. [Link](https://www.ec.unipi.it/documents/Ricerca/papers/2025-326.pdf)
-- **Aug 2025** — - **Aug 2025** — New publication: “Curbing energy consumption through voluntary quotas: Experimental evidence”, with Nicola Campigotto, Simone D’Alessandro, Pietro Guarnieri and Lorenzo Spadoni, in *Energy Economics*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S014098832500708X).
+- **Aug 2025** — New publication: “Curbing energy consumption through voluntary quotas: Experimental evidence”, with Nicola Campigotto, Simone D’Alessandro, Pietro Guarnieri and Lorenzo Spadoni, in *Energy Economics*. [Link](https://www.sciencedirect.com/science/article/abs/pii/S014098832500708X).
 - **Apr 2025** — Received the Italian National Scientific Qualification (ASN) for Associate Professor in sectors 13/A1, 13/A2, and 13/A3.
