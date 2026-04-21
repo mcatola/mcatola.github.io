@@ -13,13 +13,14 @@ Hi and welcome to my page!
 
 I am a tenure-track Assistant Professor (RTT) in Economics at the [Department of Law](https://www.jus.unipi.it), University of Pisa. 
 
-My work combines theory, experiments, and simulations to study economic behavior and policy design.
+My work combines theory, experiments, and -- more recently -- simulations to study economic behaviour and policy design.
 
 My research lies in Applied Game Theory, with a focus on:
-- Agent-based modelling in microeconomics
-- Experimental economics
+
 - Industrial organization
+- Experimental economics
 - Political economy
+- Agent-based modelling in microeconomics
 
 I am part of [MAPS](https://mapsresearch.eu), a Horizon Europe project exploring policy pathways for sustainable and equitable wellbeing.
 
