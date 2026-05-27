@@ -4,6 +4,8 @@ title: "Research"
 author_profile: true
 ---
 
+<img src="/images/presentation.jpg" alt="Presentation" style="width:100%; border-radius:12px; margin-bottom:20px;">
+
 ## Publications
 
 - Catola, M., Campigotto, N., Guarnieri, P., D’Alessandro, S., Spadoni, L.  
