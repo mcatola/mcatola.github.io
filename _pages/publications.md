@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 
-<img src="/images/presentation.jpg" alt="Presentation" width="100%">
+<img src="{{ site.baseurl }}/images/presentation.jpg" alt="Presentation" style="width:100%; height:250px; object-fit:cover; border-radius:12px; margin-bottom:20px;">
+
 ## Publications
 
 - Catola, M., Campigotto, N., Guarnieri, P., D’Alessandro, S., Spadoni, L.  
