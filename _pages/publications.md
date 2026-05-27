@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-<img src="/images/presentation.jpg" alt="Presentation" style="width:100%; border-radius:12px; margin-bottom:20px;">
+<img src="{{ '/images/presentation.jpg' | relative_url }}" alt="Presentation" style="width:100%; height:400px; object-fit:cover; border-radius:12px; margin-bottom:20px;">
 
 ## Publications
 
