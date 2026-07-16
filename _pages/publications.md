@@ -9,6 +9,10 @@ author_profile: true
 
 ## Publications
 
+- Catola, M., Campigotto, N., Di Stefano, T., Cieplinski, A., Guarnieri, P., D’Alessandro, S., Heydenreich, T.
+  "Scenario discovery for a just low-carbon transition".
+  *Ecological Economics*, 2026. [Link](https://www.sciencedirect.com/science/article/pii/S0921800926002235)
+  
 - Catola, M., Campigotto, N., Guarnieri, P., D’Alessandro, S., Spadoni, L.  
   “Curbing Energy Consumption through Voluntary Quotas: Experimental Evidence”.  
   *Energy Economics*, 2025. [Link](https://www.sciencedirect.com/science/article/abs/pii/S014098832500708X)
