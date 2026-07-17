@@ -26,6 +26,6 @@ I am part of [MAPS](https://mapsresearch.eu), a Horizon Europe project exploring
 
 ## News
 
-- **Jul 2026** - New publication in Ecological Economics. [link](https://www.sciencedirect.com/science/article/pii/S0921800926002235)
+- **Jul 2026** — New publication in Ecological Economics. [link](https://www.sciencedirect.com/science/article/pii/S0921800926002235)
 - **Apr 2026** — New working paper with Silvia Leoni and Andrea Caravaggio. [Link](https://arxiv.org/abs/2604.03102)
 - **Apr 2026** — New working paper with Silvia Leoni. [Link](https://www.ec.unipi.it/documents/Ricerca/papers/2025-326.pdf)
