@@ -13,8 +13,8 @@ author_profile: true
   "Nonlinear dynamics of higher education participation under social influence and endogenous returns".
   *Mathematical Social Sciences*, 2026. [link](https://www.sciencedirect.com/science/article/pii/S0165489626000727)
   
-- Catola, M., Campigotto, N., Di Stefano, T., Cieplinski, A., Guarnieri, P., D’Alessandro, S., Heydenreich, T.
-  "Scenario discovery for a just low-carbon transition".
+- Catola, M., Campigotto, N., Di Stefano, T., Cieplinski, A., Guarnieri, P., D’Alessandro, S., Heydenreich, T.  
+  "Scenario discovery for a just low-carbon transition".  
   *Ecological Economics*, 2026. [Link](https://www.sciencedirect.com/science/article/pii/S0921800926002235)
   
 - Catola, M., Campigotto, N., Guarnieri, P., D’Alessandro, S., Spadoni, L.  
