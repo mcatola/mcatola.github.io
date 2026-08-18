@@ -37,7 +37,6 @@ author_profile: true
 
 - *Economics and Business*, Maastricht University  
 - *Microeconomics I & II*, Maastricht University  
-- *Macroeconomics*, Maastricht University  
-- *Macroeconomics II (International Economic Relations)*, Maastricht University  
+- *Macroeconomics I & II*, Maastricht University   
 - *Public Economics*, Maastricht University  
 - *Economics of Information*, Maastricht University  
